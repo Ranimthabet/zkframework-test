@@ -1,0 +1,11 @@
+<profiles>
+  <profile>
+    <id>ZKossRepo</id>
+    <repositories>
+      <repository>
+        <id>ZKoss</id>
+        <url>https://mavensync.zkoss.org/maven2</url>
+      </repository>
+    </repositories>
+  </profile>
+</profiles>
